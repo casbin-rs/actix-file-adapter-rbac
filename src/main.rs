@@ -1,3 +1,6 @@
+#[allow(unused)]
+#[allow(dead_code)]
+
 use casbin::{CoreApi, Enforcer, RbacApi};
 use std::io;
 use std::sync::RwLock;
